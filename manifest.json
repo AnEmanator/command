@@ -1,0 +1,18 @@
+{
+	"files": {
+		"LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+		"README.md": "eb2058d4bf3674cedad137be8530731727091bb2f0efeed398d2b83fdc3b84c8",
+		"index.js": "e600dc7568f4e58e93d160f551b3bc29ca3ad606f72b7a566784ac6128bcc696",
+		"module.json": "2f4915ebe75f07090c5633be1162a59b2c148e3d5304de2373e80031ca6c8e5b",
+		"settings_migrator.js": "4b5323c56e1e9f711b6bedcdd8b17e5b96f7bbfb1a62ea41cebdef1c32cb8d65"
+	},
+	"defs": {
+		"C_CHAT": 1,
+		"C_LEAVE_PRIVATE_CHANNEL": 1,
+		"C_REQUEST_PRIVATE_CHANNEL_INFO": 2,
+		"C_WHISPER": [1,2],
+		"S_JOIN_PRIVATE_CHANNEL": 2,
+		"S_PRIVATE_CHAT": 1,
+		"S_REQUEST_PRIVATE_CHANNEL_INFO": 2
+	}
+}
